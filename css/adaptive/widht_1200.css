@@ -1,0 +1,97 @@
+@media (max-width: 1200px) {
+   .container {
+     max-width: 1140px;
+     padding-left: 0;
+     padding-right: 0;
+   }
+
+   .row {
+      flex-direction: row;
+   }
+
+   /* LEFT COLUMN */
+   .foto {
+      width: 200px;
+      height: 200px;
+   }
+
+   .left {
+      width: 35%;
+   }
+
+   .right {
+      width: 65%;
+   }
+
+   .name {
+      font-size: 21px;
+   }
+
+   .position, .leftTitle {
+      font-size: 18px;
+   }
+
+   .leftTitle i {
+      padding: 6px;
+   }
+
+   .profText {
+      font-size: 15px;
+   }
+
+   .adres, .phone, .mail, .web, .facebook, .twitter, .instagram,
+   .adres i, .phone i, .mail i, .web i, .facebook i, .twitter i, .instagram i {
+      font-size: 15px;
+   }
+
+   .skillsItem {
+      font-size: 15px;
+   }
+
+   .skillsItem::before {
+      top: 38px;
+   }
+
+   /* RIGHT COLUMN */
+   .rightTitle {
+      font-size: 21px;
+      margin-left: 80px;
+   }
+
+   .rightTitle i {
+      font-size: 21px;
+      margin: 2px 30px 2px 2px;
+   }
+
+   .pageItem {
+      margin-left: 95px;
+   }
+
+   .speciality {
+      font-size: 18px;
+   }
+
+   .speciality i {
+      padding-right: 37px;
+      font-size: 18px;
+   }
+
+   .pageSubTit {
+      font-size: 16px;
+   }
+
+   .pageText, .date {
+      padding-right: 10px;
+      text-align: justify;
+      font-size: 15px;
+   }
+
+   .pageInfo {
+      padding-left: 58px;
+      margin-left: 95px;
+   }
+
+   .intIcon {
+      font-size: 35px;
+   }
+}

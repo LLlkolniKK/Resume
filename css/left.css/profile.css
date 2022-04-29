@@ -1,0 +1,23 @@
+.leftTitle {
+   margin-left: 30px;
+   font-size: 22px;
+   background: #fefefd;
+   color: #1283c3;
+   text-transform: uppercase;
+   border-radius: 40px 0 0 40px;
+}
+
+.leftTitle i {
+   margin: 2px 10px 2px 2px;
+   padding: 7px;
+   background: #1283c3;
+   color: #fefefd;
+   border-radius: 50%;
+}
+
+.profText {
+   text-align: justify;
+   font-size: 17px;
+   font-style: italic;
+   padding: 30px 30px 60px;
+}

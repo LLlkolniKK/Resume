@@ -1,0 +1,21 @@
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans:ital,wght@0,300;0,600;1,300&family=Roboto:ital,wght@0,300;1,400&display=swap');
+
+/* LEFT COLUMN */
+@import url('./left.css/contact.css');
+@import url('./left.css/intro.css');
+@import url('./left.css/profile.css');
+@import url('./left.css/skills.css');
+
+/* RIGHT COLUMN */
+@import url('./right.css/page.css');
+@import url('./right.css/interests.css');
+
+/* MAIN CSS */
+@import url('./main.css');
+
+/* ADAPTIVE */
+@import url('./adaptive/widht_1200.css');
+@import url('./adaptive/width_992.css');
+@import url('./adaptive/width_768.css');
+@import url('./adaptive/width_576.css');

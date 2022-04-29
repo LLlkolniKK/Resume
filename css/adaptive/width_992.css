@@ -1,0 +1,37 @@
+@media (max-width: 992px) {
+   .container {
+     max-width: 960px;
+     padding-right: 15px;
+     padding-left: 15px;
+   }
+
+   .row {
+      flex-direction: column;
+   }
+
+   /* LEFT COLUMN */
+   .left, .right {
+      width: 100%;
+   }
+
+   /* RIGHT COLUMN */
+   .rightTitle, .pageItem, .pageInfo {
+      margin-left: 30px;
+   }
+
+   .pageInfo {
+      padding-left: 64px;
+   }
+
+   .rightTitle i {
+      margin: 2px 20px 2px 2px;
+   }
+
+   .speciality i {
+      padding-right: 42px;
+   }
+
+   .pageText, .date {
+      padding-right: 30px;
+   }
+}

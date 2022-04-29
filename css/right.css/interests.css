@@ -1,0 +1,10 @@
+.intItem {
+   display: flex;
+   justify-content: space-evenly;
+   margin-top: 60px;
+}
+
+.intIcon {
+   font-size: 40px;
+   color: #1283c3;
+}

@@ -1,0 +1,24 @@
+.item {
+   margin: 20px 30px 0;
+}
+
+.skillsItem {
+   position: relative;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   font-size: 17px;
+   font-style: italic;
+   border-bottom: 3px solid #f5f7f7;
+}
+
+.skillsItem::before {
+   content: "";
+   display: block;
+   position: absolute;
+   width: 80%;
+   height: 4px;
+   top: 40px;
+   left: 0;
+   z-index: 1;
+   background: #0f557b;
+}

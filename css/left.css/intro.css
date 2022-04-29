@@ -1,0 +1,23 @@
+.foto {
+   width: 250px;
+   height: 250px;
+   margin: 0 auto;
+   border-radius: 50%;
+   background: url('../foto/foto.jpg') center no-repeat;
+  -webkit-background-size: cover;
+   background-size: cover;
+}
+
+.name {
+   font-size: 27px;
+}
+
+.position {
+   font-size: 22px;
+}
+
+.namePos {
+   padding: 30px 10px 60px;
+   text-transform: uppercase;
+   text-align: center;
+}
